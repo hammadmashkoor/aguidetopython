@@ -15,7 +15,6 @@ Python is a Beginner's Language: Python is a great language for the beginner-lev
 
 # Prerequisites
 You should have a basic understanding of Computer Programming terminologies. A basic understanding of any of the programming languages is a plus.
-Example:print "Hello, Python!"
 
 # Python Features
 Easy-to-learn: Python has few keywords, simple structure, and a clearly defined syntax. This allows the student to pick up the language quickly.
@@ -50,5 +49,7 @@ IT supports automatic garbage collection.
 
 It can be easily integrated with C, C++, COM, ActiveX, CORBA, and Java.
 
+# Example
+Example:print "Hello, Python!"
 
 
