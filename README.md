@@ -13,11 +13,11 @@ Python is Object-Oriented: Python supports Object-Oriented style or technique of
 
 Python is a Beginner's Language: Python is a great language for the beginner-level programmers and supports the development of a wide range of applications from simple text processing to WWW browsers to games.
 
-#Prerequisites
+# Prerequisites
 You should have a basic understanding of Computer Programming terminologies. A basic understanding of any of the programming languages is a plus.
 Example:print "Hello, Python!"
 
-#Python Features
+# Python Features
 Easy-to-learn: Python has few keywords, simple structure, and a clearly defined syntax. This allows the student to pick up the language quickly.
 
 Easy-to-read: Python code is more clearly defined and visible to the eyes.
