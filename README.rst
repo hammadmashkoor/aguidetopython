@@ -77,4 +77,4 @@ defined syntax. This allows the student to pick up the language quickly.
 -  **Scalable:** Python provides a better structure and support for
    large programs than shell scripting.
 
-Apart from the above-me
+
