@@ -2,12 +2,11 @@
 
 n = int(input("enter the number "))
 
-a, b = 0, 1
+fib1, fib2 = 0, 1
 count = 0
-print a, b
+print fib1, fib2
 while count < (n - 2):
-      c = a + b
-      print(c)
-      a = b
-      b = c
+      fib = fib1 + fib2
+      print(fib)
+      fib1, fib2 = fib2, fib
       count += 1
