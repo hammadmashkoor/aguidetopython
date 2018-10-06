@@ -71,7 +71,7 @@ while i < 5:
 for x in range(5)
   print(i)
 ```
-
+# 
 
 # Examples
 
@@ -80,5 +80,13 @@ for x in range(5)
 ```python
 print "Hello, Python!"
 ```
+# Python Character Set
+Any program written in Python contains words or statement which follow a sequence of characters.Python uses the following characters set:
+
+- * Letters:Upper cass and lower case letters.
+- * Digital:0,1,2,3,4,5,6,7,8,9
+- * Special Symbol: Underscore( _ ),(,),+,-,* ,& , ^ ,% , $ ,# ,! ,single qoutes('), Double quote s("), Colon(:),and Semi Colon(;).
+- * White Spaces:Space,Tab.
+
 
 
