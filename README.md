@@ -85,7 +85,7 @@ Any program written in Python contains words or statement which follow a sequenc
 
 - * Letters:Upper cass and lower case letters.
 - * Digital:0,1,2,3,4,5,6,7,8,9
-- * Special Symbol: Underscore( _ ),(,),+,-,* ,& , ^ ,% , $ ,# ,! ,single qoutes('), Double quote s("), Colon(:),and Semi Colon(;).
+- * Special Symbol: Underscore( _ ),(,),+,-,* ,& , ^ ,% , $ ,# ,! ,single quotes('), Double quote s("), Colon(:),and Semi Colon(;).
 - * White Spaces:Space,Tab.
 
 
